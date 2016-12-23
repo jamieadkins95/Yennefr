@@ -4,7 +4,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/910/0icon.png",
     "info": "Return a non-Gold, non-Relentless unit on your side to your hand, then banish.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Decoy",
     "rarity": "Legendary",
     "rows": {
@@ -18,7 +20,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/911/1icon.png",
     "info": "Double the strength of all non-Gold units on a row on your side, then banish.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Commander's Horn",
     "rarity": "Rare",
     "rows": {
@@ -35,7 +39,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/23/10icon.png",
     "info": "Convert all instances of a non-Gold unit on your side of the battlefield to Gold until removed from the battlefield or the round ends.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Promote",
     "rarity": "Rare",
     "rows": {
@@ -49,7 +55,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/930/1000icon.png",
     "info": "Remove 5 strength from an opposing unit.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Vernon Roche",
     "rarity": "Legendary",
     "rows": {
@@ -63,7 +71,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/929/10000icon.png",
     "info": "Choose a Bronze unit on your side of the battlefield. Spawn an exact copy on the same row.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Foltest",
     "rarity": "Epic",
     "rows": {
@@ -77,7 +87,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/8/1001icon.png",
     "info": "Add 3 strength to 3 non-Gold units on your side of the battlefield.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "John Natalis",
     "rarity": "Epic",
     "rows": {
@@ -91,7 +103,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/931/1003icon.png",
     "info": "Convert all other Gold units to Silver (or Bronze, if that was their original color). Gain 1 strength for each unit converted.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Dijkstra",
     "rarity": "Legendary",
     "rows": {
@@ -105,7 +119,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/932/1006icon.png",
     "info": "Resurrect a non-Gold, non-Permadeath unit and convert it to Gold until removed from the battlefield or the round ends.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Shani",
     "rarity": "Epic",
     "rows": {
@@ -119,7 +135,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/933/1030icon.png",
     "info": "Redraw up to 1 card.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Thaler",
     "rarity": "Rare",
     "rows": {
@@ -133,7 +151,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/934/1031icon.png",
     "info": "Play a Blue Stripes Commando from your deck whenever a Gold card appears on your side.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Ves",
     "rarity": "Epic",
     "rows": {
@@ -147,7 +167,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/935/1039icon.png",
     "info": "Remove 1 strength from all non-Gold units on the opposite row. Gain 1 strength for each.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Trololo",
     "rarity": "Epic",
     "rows": {
@@ -163,7 +185,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/9/1042icon.png",
     "info": "Resurrect a non-Gold, non-Permadeath unit.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Nenneke",
     "rarity": "Epic",
     "rows": {
@@ -177,7 +201,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/10/1043icon.png",
     "info": "Move to a random row on the same side at the start of your turn and add 1 strength to all other non-Gold units on the row.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Odrin",
     "rarity": "Epic",
     "rows": {
@@ -193,7 +219,9 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/999/11icon.png",
     "info": "Spawn a base copy of the last non-Gold Special Card played, then banish.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Nature's Gift",
     "rarity": "Epic",
     "rows": {
@@ -207,7 +235,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/11/1106icon.png",
     "info": "Spawn an exact copy of this unit on the same row.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Poor Infantry",
     "rarity": "Common",
     "rows": {
@@ -221,7 +251,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/12/1108icon.png",
     "info": "Choose a Bronze unit on your side of the battlefield. Play an instance of it from your deck.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Reaver Scout",
     "rarity": "Common",
     "rows": {
@@ -235,7 +267,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/936/1111icon.png",
     "info": "If 3 or more Redanian Elites are on your side of the battlefield, convert them to Gold until removed from the battlefield or the round ends.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Redanian Elite",
     "rarity": "Common",
     "rows": {
@@ -249,7 +283,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/937/1112icon.png",
     "info": "Add 3 strength to 2 non-Gold units on your side of the battlefield.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Kaedweni Siege Support",
     "rarity": "Rare",
     "rows": {
@@ -265,7 +301,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/938/1114icon.png",
     "info": "Add 4 strength to a non-Gold unit on your side of the battlefield.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Blue Stripes Scout",
     "rarity": "Rare",
     "rows": {
@@ -279,7 +317,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/939/1115icon.png",
     "info": "Add 2 strength to all your other Blue Stripes Commandos, wherever they are.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Blue Stripes Commando",
     "rarity": "Common",
     "rows": {
@@ -293,7 +333,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/22/1116icon.png",
     "info": "Resurrect a random non-Gold, non-Permadeath unit.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Field Medic",
     "rarity": "Rare",
     "rows": {
@@ -307,7 +349,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/942/1117icon.png",
     "info": "No ability.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Dun Banner Light Cavalry",
     "rarity": "Common",
     "rows": {
@@ -321,7 +365,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/13/1118icon.png",
     "info": "After 2 turns, convert to Gold until removed from the battlefield or the round ends.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Dun Banner Heavy Cavalry",
     "rarity": "Rare",
     "rows": {
@@ -335,7 +381,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/983/12icon.png",
     "info": "Destroy the weakest non-Gold unit(s) on the battlefield.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Epidemic",
     "rarity": "Rare",
     "rows": {
@@ -349,7 +397,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/912/2icon.png",
     "info": "Destroy the strongest non-Gold unit(s) on the battlefield.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Scorch",
     "rarity": "Rare",
     "rows": {
@@ -363,7 +413,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/982/3icon.png",
     "info": "Spawn a Frost effect on both Melee rows that sets the strength of all non-Gold units on or appearing there to 1.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Biting Frost",
     "rarity": "Common",
     "rows": {
@@ -377,7 +429,9 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/944/3000icon.png",
     "info": "Remove 1 strength from all opposing non-Gold units. Add 1 strength to all non-Gold units on your side of the battlefield.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Saskia",
     "rarity": "Legendary",
     "rows": {
@@ -391,7 +445,9 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/990/30001icon.png",
     "info": "Return a non-Relentless unit on your side to your hand and immediately play it again.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Eithn\u00e9",
     "rarity": "Epic",
     "rows": {
@@ -405,7 +461,9 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/943/30002icon.png",
     "info": "Play a Silver card from your deck.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Brouver Hoog",
     "rarity": "Epic",
     "rows": {
@@ -419,7 +477,9 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/14/3006icon.png",
     "info": "Resurrect a non-Gold Special Card from your graveyard.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Agla\u00efs",
     "rarity": "Legendary",
     "rows": {
@@ -435,7 +495,9 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/945/3032icon.png",
     "info": "Remove 2 strength from all other non-Gold units on the row. Draw a card.",
-    "loyalty": "Disloyal",
+    "loyalty": [
+      "Disloyal"
+    ],
     "name": "Yaevinn",
     "rarity": "Epic",
     "rows": {
@@ -451,7 +513,9 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/946/3034icon.png",
     "info": "Add 3 strength to a non-Gold unit in your hand.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Vrihedd Dragoon",
     "rarity": "Rare",
     "rows": {
@@ -467,7 +531,9 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/947/3037icon.png",
     "info": "If possible, destroy an unrevealed Ambush card and gain 4 strength.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Morenn",
     "rarity": "Legendary",
     "rows": {
@@ -483,7 +549,9 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/25/3042icon.png",
     "info": "Ambush: When the next non-Gold Special Card is played, cancel its effects, then destroy the strongest non-Gold unit(s) on the battlefield.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Schirr\u00fa",
     "rarity": "Legendary",
     "rows": {
@@ -499,7 +567,9 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/948/3043icon.png",
     "info": "No ability.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Sheldon Skaggs",
     "rarity": "Rare",
     "rows": {
@@ -513,7 +583,9 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/949/3100icon.png",
     "info": "Add 3 strength to all other non-Gold units on the row.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Hawker Healer",
     "rarity": "Rare",
     "rows": {
@@ -529,7 +601,9 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/26/3103icon.png",
     "info": "Add 1 strength to the weakest non-Gold unit(s) on your side of the battlefield (except self), remove 1 strength from the weakest opposing non-Gold unit(s).",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Vrihedd Officer",
     "rarity": "Common",
     "rows": {
@@ -545,7 +619,10 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/27/3104icon.png",
     "info": "Ambush: When a revealed non-Gold unit appears on the row, remove 5 strength from all non-Gold units on the row (except self).",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal",
+      "Disloyal"
+    ],
     "name": "Dol Blathanna Trapper",
     "rarity": "Common",
     "rows": {
@@ -561,7 +638,9 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/2/3106icon.png",
     "info": "Gain 2 strength for each Dwarf unit on your side of the battlefield.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Dwarven Mercenary",
     "rarity": "Common",
     "rows": {
@@ -575,7 +654,9 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/950/3108icon.png",
     "info": "Immune to Frost. Add 3 strength to a non-Gold unit on your side of the battlefield. If it's a Dwarf, add {add2} strength instead.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Mahakam Guard",
     "rarity": "Rare",
     "rows": {
@@ -589,7 +670,9 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/3/3109icon.png",
     "info": "Play a random non-Gold Special Card from your deck.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Elven Mercenary",
     "rarity": "Common",
     "rows": {
@@ -605,7 +688,9 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/991/3110icon.png",
     "info": "Spawn a Commando Neophyte on a random row.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Vrihedd Vanguard",
     "rarity": "Common",
     "rows": {
@@ -621,7 +706,9 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/951/3116icon.png",
     "info": "Return a Bronze, non-Relentless unit on your side (other than a Blue Mountain Commando) to your hand and immediately play it again.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Blue Mountain Commando",
     "rarity": "Rare",
     "rows": {
@@ -637,7 +724,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/913/4icon.png",
     "info": "Spawn a Fog effect on both Ranged rows that sets the strength of all non-Gold units on or appearing there to 1.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Impenetrable Fog",
     "rarity": "Common",
     "rows": {
@@ -651,7 +740,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/992/40000icon.png",
     "info": "Play Eredin.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Eredin",
     "rarity": "Epic",
     "rows": {
@@ -665,7 +756,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/952/40002icon.png",
     "info": "Spawn a Biting Frost, Impenetrable Fog, Torrential Rain or First Light card.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Dagon",
     "rarity": "Epic",
     "rows": {
@@ -679,7 +772,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/953/4002icon.png",
     "info": "Immune to Frost. Remove 3 strength from an opposing unit and 1 strength from all other units on its row.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Imlerith",
     "rarity": "Legendary",
     "rows": {
@@ -693,7 +788,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/954/4003icon.png",
     "info": "Immune to Fog. Spawn a Fog effect and 3 Rabid Wolves.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Woodland Spirit",
     "rarity": "Epic",
     "rows": {
@@ -707,7 +804,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/993/4004icon.png",
     "info": "Immune to Frost. Spawn a Frost effect and 2 Wild Hunt Hounds.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Caranthir",
     "rarity": "Epic",
     "rows": {
@@ -721,7 +820,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/4/4033icon.png",
     "info": "After 1 turn, banish all non-Gold units in your graveyard and gain 1 strength for each.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Grave Hag",
     "rarity": "Legendary",
     "rows": {
@@ -735,7 +836,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/955/4035icon.png",
     "info": "Immune to Frost. Gain 7 strength while on a row affected by Frost.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Ice Giant",
     "rarity": "Epic",
     "rows": {
@@ -749,7 +852,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/994/4036icon.png",
     "info": "Every 2 turns, if possible, banish a random non-Gold Special Card in your graveyard and gain 3 strength.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Frightener",
     "rarity": "Epic",
     "rows": {
@@ -763,7 +868,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/30/4037icon.png",
     "info": "No ability.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Fiend",
     "rarity": "Common",
     "rows": {
@@ -777,7 +884,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/956/4038icon.png",
     "info": "Play all Crone units from your deck.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Crone: Whispess",
     "rarity": "Epic",
     "rows": {
@@ -791,7 +900,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/957/4039icon.png",
     "info": "Play all Crone units from your deck.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Crone: Brewess",
     "rarity": "Epic",
     "rows": {
@@ -805,7 +916,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/958/4040icon.png",
     "info": "Play all Crone units from your deck.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Crone: Weavess",
     "rarity": "Epic",
     "rows": {
@@ -819,7 +932,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/995/4041icon.png",
     "info": "Every 3 turns, banish a random non-Gold unit in your graveyard and absorb its strength.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Katakan",
     "rarity": "Epic",
     "rows": {
@@ -833,7 +948,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/996/4042icon.png",
     "info": "If possible, discard a non-Gold unit, absorb its strength and draw a card.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Giant Toad",
     "rarity": "Epic",
     "rows": {
@@ -847,7 +964,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/15/4045icon.png",
     "info": "No ability.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Manticore",
     "rarity": "Rare",
     "rows": {
@@ -861,7 +980,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/959/4051icon.png",
     "info": "Immune to Frost. Remove 2 strength from a random opposing non-Gold unit whenever a Wild Hunt unit appears on your side.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Nithral",
     "rarity": "Legendary",
     "rows": {
@@ -875,7 +996,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/960/4100icon.png",
     "info": "Immune to Fog. Play from your deck or graveyard whenever Fog is spawned. Gain 1 strength whenever a Fog effect is applied. Destroy when moved outside of Fog or Fog is removed.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Foglet",
     "rarity": "Common",
     "rows": {
@@ -889,7 +1012,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/961/4101icon.png",
     "info": "Immune to Fog. Gain 1 strength at the start of your turn if on a row affected by Fog.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Ancient Foglet",
     "rarity": "Rare",
     "rows": {
@@ -903,7 +1028,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/997/4102icon.png",
     "info": "Remove 4 strength from an opposing non-Gold unit.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Wyvern",
     "rarity": "Rare",
     "rows": {
@@ -917,7 +1044,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/998/4110icon.png",
     "info": "Move a non-Gold card from your opponent's graveyard to your own.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Griffin",
     "rarity": "Rare",
     "rows": {
@@ -931,7 +1060,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/962/4113icon.png",
     "info": "Immune to Frost. Remove 1 strength from an opposing non-Gold unit and gain 2 strength if that unit is destroyed.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Wild Hunt Warrior",
     "rarity": "Common",
     "rows": {
@@ -945,7 +1076,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/963/4114icon.png",
     "info": "Immune to Frost. Play all Wild Hunt Riders from your deck.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Wild Hunt Rider",
     "rarity": "Rare",
     "rows": {
@@ -959,7 +1092,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/914/5icon.png",
     "info": "Spawn a Rain effect on both Siege rows that sets the strength of all non-Gold units on or appearing there to 1.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Torrential Rain",
     "rarity": "Common",
     "rows": {
@@ -973,7 +1108,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/967/5000icon.png",
     "info": "Spawn a Lord of Undvik on the opposite side.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Hjalmar",
     "rarity": "Legendary",
     "rows": {
@@ -987,7 +1124,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/966/50001icon.png",
     "info": "Spawn 2 Clan an Craite Warriors.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Crach an Craite",
     "rarity": "Epic",
     "rows": {
@@ -1001,7 +1140,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/29/50002icon.png",
     "info": "Remove 3 strength from all weakened opposing units and 2 strength from all other opposing units.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Harald the Cripple",
     "rarity": "Epic",
     "rows": {
@@ -1015,7 +1156,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/968/5001icon.png",
     "info": "When moved to graveyard, convert to Silver.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Cerys",
     "rarity": "Legendary",
     "rows": {
@@ -1029,7 +1172,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/32/50017icon.png",
     "info": "Spawn either a Unicorn or a Chironex card.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Yennefer",
     "rarity": "Legendary",
     "rows": {
@@ -1043,7 +1188,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/137/50018icon.png",
     "info": "When destroyed, move to your deck and gain 3 base strength.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Ciri: Dash",
     "rarity": "Legendary",
     "rows": {
@@ -1057,7 +1204,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/123/50019icon.png",
     "info": "Move all non-Gold units on the opposite row one row back. Remove 1 strength from all moved units.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Geralt: Aard",
     "rarity": "Epic",
     "rows": {
@@ -1072,7 +1221,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/16/5002icon.png",
     "info": "If possible, discard 2 cards and draw 2 cards.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Ermion",
     "rarity": "Epic",
     "rows": {
@@ -1086,7 +1237,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/125/50020icon.png",
     "info": "Set strength to that of an opposing non-Gold unit.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Dudu",
     "rarity": "Epic",
     "rows": {
@@ -1100,7 +1253,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/33/50021icon.png",
     "info": "Play Vesemir and Lambert from your deck.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Eskel",
     "rarity": "Epic",
     "rows": {
@@ -1114,7 +1269,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/66/50022icon.png",
     "info": "Resurrect at the start of the round and lose 2 base strength.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Olgierd",
     "rarity": "Epic",
     "rows": {
@@ -1128,7 +1285,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/67/50023icon.png",
     "info": "Move a card in your hand to the bottom of your deck. Create in your hand a base copy of another card of the same color randomly chosen from both players' cards (all locations). Banish when destroyed.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Johnny",
     "rarity": "Epic",
     "rows": {
@@ -1142,7 +1301,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/34/50029icon.png",
     "info": "Spawn Frost, Fog and Rain effects.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Ragh Nar Roog",
     "rarity": "Legendary",
     "rows": {
@@ -1156,7 +1317,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/17/5003icon.png",
     "info": "After 3 turns, spawn Hemdall on this unit's side. Destroy Kambi whenever Hemdall appears on the same side.",
-    "loyalty": "Disloyal",
+    "loyalty": [
+      "Disloyal"
+    ],
     "name": "Kambi",
     "rarity": "Legendary",
     "rows": {
@@ -1170,7 +1333,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/52/50030icon.png",
     "info": "Draw 2 cards. Discard 2 cards.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "The Last Wish",
     "rarity": "Legendary",
     "rows": {
@@ -1184,7 +1349,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/68/50031icon.png",
     "info": "Spawn Frost and Rain effects.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Merigold's Hailstorm",
     "rarity": "Epic",
     "rows": {
@@ -1198,7 +1365,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/69/50032icon.png",
     "info": "Remove 2 strength from all non-Gold units on both sides of the battlefield.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Stammelford's Tremors",
     "rarity": "Rare",
     "rows": {
@@ -1212,7 +1381,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/53/50033icon.png",
     "info": "Reset all units on the battlefield to their base strength.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Dimeritium Bomb",
     "rarity": "Rare",
     "rows": {
@@ -1226,7 +1397,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/35/50034icon.png",
     "info": "Spawn a Biting Frost, Impenetrable Fog or Torrential Rain card.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Aeromancy",
     "rarity": "Legendary",
     "rows": {
@@ -1240,7 +1413,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/45/50035icon.png",
     "info": "Remove 7 strength from a non-Gold unit.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Alzur's Thunder",
     "rarity": "Common",
     "rows": {
@@ -1254,7 +1429,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/70/50036icon.png",
     "info": "Remove 4 strength from all instances of a non-Gold unit on its side.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Manticore Venom",
     "rarity": "Common",
     "rows": {
@@ -1268,7 +1445,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/71/50037icon.png",
     "info": "Keep a non-Gold unit on the battlefield at the end of this round.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Adrenaline Rush",
     "rarity": "Common",
     "rows": {
@@ -1282,7 +1461,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/72/50038icon.png",
     "info": "Add 8 strength to a non-Gold unit. If it's a Witcher, add {add2} strength instead.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Swallow Potion",
     "rarity": "Rare",
     "rows": {
@@ -1296,7 +1477,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/73/50039icon.png",
     "info": "Add 4 strength to all instances of a non-Gold unit on its side. If it's a Witcher, add {add2} strength instead.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Thunderbolt Potion",
     "rarity": "Rare",
     "rows": {
@@ -1310,7 +1493,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/49/50040icon.png",
     "info": "Double the strength of all weakened non-Gold units on your side of the battlefield.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Warcry",
     "rarity": "Common",
     "rows": {
@@ -1324,7 +1509,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/129/50042icon.png",
     "info": "Swap the strength of the strongest and weakest units on the battlefield. Ties are resolved randomly.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Bekker's Twisted Mirror",
     "rarity": "Epic",
     "rows": {
@@ -1338,7 +1525,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/130/50043icon.png",
     "info": "Resurrect a Gold unit.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Renew",
     "rarity": "Legendary",
     "rows": {
@@ -1352,7 +1541,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/74/50049icon.png",
     "info": "Remove 8 strength from any unit.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Radovid",
     "rarity": "Epic",
     "rows": {
@@ -1366,7 +1557,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/969/5005icon.png",
     "info": "Spawn Fog and Rain effects on the opposing side only.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Coral",
     "rarity": "Legendary",
     "rows": {
@@ -1380,7 +1573,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/75/50050icon.png",
     "info": "Convert all units on one of your rows to Gold until removed from the battlefield or the round ends.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Henselt",
     "rarity": "Epic",
     "rows": {
@@ -1397,7 +1592,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/76/50051icon.png",
     "info": "Set the strength of all other non-Gold units on the row to 1.",
-    "loyalty": "Disloyal",
+    "loyalty": [
+      "Disloyal"
+    ],
     "name": "Philippa Eilhart",
     "rarity": "Legendary",
     "rows": {
@@ -1413,7 +1610,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/133/50052icon.png",
     "info": "Give a shield to all non-Gold units on the row. The shield protects its bearer from one strength-removing effect.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Keira Metz",
     "rarity": "Legendary",
     "rows": {
@@ -1429,7 +1628,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/77/50053icon.png",
     "info": "Remove 4 strength from an opposing non-Gold unit.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "S\u00edle de Tansarville",
     "rarity": "Epic",
     "rows": {
@@ -1443,7 +1644,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/78/50054icon.png",
     "info": "When destroyed, remove 3 strength from all non-Gold units on its side.",
-    "loyalty": "Disloyal",
+    "loyalty": [
+      "Disloyal"
+    ],
     "name": "Sabrina Glevissig",
     "rarity": "Epic",
     "rows": {
@@ -1457,7 +1660,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/54/50056icon.png",
     "info": "Draw 1 card face up and 1 card face down. Keep 1, return the other to your deck.",
-    "loyalty": "Disloyal",
+    "loyalty": [
+      "Disloyal"
+    ],
     "name": "Prince Stennis",
     "rarity": "Rare",
     "rows": {
@@ -1471,7 +1676,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/79/50057icon.png",
     "info": "Destroy the weakest non-Gold unit(s) twice in a row.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Pavetta",
     "rarity": "Legendary",
     "rows": {
@@ -1485,7 +1692,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/80/50058icon.png",
     "info": "Spawn a Ban Ard Adept whenever a Gold card appears on your side.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Margarita Laux\u2013Antille",
     "rarity": "Epic",
     "rows": {
@@ -1499,7 +1708,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/81/50059icon.png",
     "info": "Convert a Gold unit to Silver (or Bronze, if that was its original color).",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Kaedweni Sergeant",
     "rarity": "Common",
     "rows": {
@@ -1513,7 +1724,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/82/50060icon.png",
     "info": "Remove 2 strength from an opposing non-Gold unit.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Ballista",
     "rarity": "Common",
     "rows": {
@@ -1527,7 +1740,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/83/50061icon.png",
     "info": "Remove 1 strength from a random opposing non-Gold unit whenever a Gold card appears on your side.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Reinforced Ballista",
     "rarity": "Common",
     "rows": {
@@ -1541,7 +1756,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/84/50062icon.png",
     "info": "Remove 2 strength from 2 opposing non-Gold units.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Trebuchet",
     "rarity": "Common",
     "rows": {
@@ -1555,7 +1772,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/85/50063icon.png",
     "info": "Gain 2 strength whenever a Gold card appears on your side.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Reinforced Siege Tower",
     "rarity": "Rare",
     "rows": {
@@ -1569,7 +1788,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/46/50064icon.png",
     "info": "Add 1 strength to all your other Reaver Hunters, wherever they are. After 2 turns, play a Reaver Hunter from your deck.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Reaver Hunter",
     "rarity": "Rare",
     "rows": {
@@ -1583,7 +1804,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/36/50065icon.png",
     "info": "No ability.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Redanian Knight",
     "rarity": "Common",
     "rows": {
@@ -1597,7 +1820,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/86/50066icon.png",
     "info": "Every 3 turns, remove 2 strength from a random opposing non-Gold unit.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Reinforced Trebuchet",
     "rarity": "Rare",
     "rows": {
@@ -1611,7 +1836,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/87/50071icon.png",
     "info": "Play all instances from your deck of a Bronze unit on your side of the battlefield.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Reinforcement",
     "rarity": "Rare",
     "rows": {
@@ -1625,7 +1852,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/88/50074icon.png",
     "info": "Set the strength of all non-Gold units on one of your rows to 6.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Ge'els",
     "rarity": "Epic",
     "rows": {
@@ -1642,7 +1871,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/37/50075icon.png",
     "info": "Destroy all non-Gold units with 3 strength or lower on both sides of the battlefield.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Draug",
     "rarity": "Legendary",
     "rows": {
@@ -1656,7 +1887,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/134/50076icon.png",
     "info": "Destroy 3 loyal non-Gold units and add their strength to this unit's base strength. When removed, set base strength to 8.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Kayran",
     "rarity": "Legendary",
     "rows": {
@@ -1670,7 +1903,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/55/50078icon.png",
     "info": "Spawn an Arachas whenever a unit on your side absorbs strength.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Arachas Behemoth",
     "rarity": "Rare",
     "rows": {
@@ -1684,7 +1919,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/89/50079icon.png",
     "info": "Immune to Rain. Spawn a Rain effect.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Water Hag",
     "rarity": "Rare",
     "rows": {
@@ -1698,7 +1935,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/90/50080icon.png",
     "info": "Create in your deck 2 base copies of a Bronze unit on your side of the battlefield.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Nekker Warrior",
     "rarity": "Rare",
     "rows": {
@@ -1712,7 +1951,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/91/50081icon.png",
     "info": "When removed from the battlefield, spawn 3 Lesser Earth Elementals on the row where this unit was.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Earth Elemental",
     "rarity": "Epic",
     "rows": {
@@ -1726,7 +1967,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/56/50084icon.png",
     "info": "Play all Arachasae from your deck.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Arachas",
     "rarity": "Common",
     "rows": {
@@ -1740,7 +1983,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/38/50085icon.png",
     "info": "While in your hand or deck, gain 1 strength whenever a unit on your side absorbs another's strength. When removed from the battlefield, play a Nekker from your deck.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Nekker",
     "rarity": "Common",
     "rows": {
@@ -1754,7 +1999,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/92/50086icon.png",
     "info": "Banish a random non-Gold unit in either graveyard and absorb its strength.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Ghoul",
     "rarity": "Rare",
     "rows": {
@@ -1768,7 +2015,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/41/50087icon.png",
     "info": "Remove Weather from its row and reset all weakened non-immune units there to their base strength.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Archgriffin",
     "rarity": "Common",
     "rows": {
@@ -1784,7 +2033,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/93/50088icon.png",
     "info": "No ability.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Vran Warrior",
     "rarity": "Common",
     "rows": {
@@ -1798,7 +2049,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/94/50089icon.png",
     "info": "Destroy a non-Gold unit on your side and absorb its strength.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Ekimmara",
     "rarity": "Rare",
     "rows": {
@@ -1812,7 +2065,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/95/50090icon.png",
     "info": "Immune to Rain. Move an opposing non-Gold unit to that side's Siege row.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Drowner",
     "rarity": "Common",
     "rows": {
@@ -1826,7 +2081,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/918/501icon.png",
     "info": "Destroy the strongest non-Gold unit(s) on the opposite row if that row totals 20 or more strength.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Geralt: Igni",
     "rarity": "Legendary",
     "rows": {
@@ -1842,7 +2099,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/135/50101icon.png",
     "info": "Give all instances of a non-Gold unit on your side a shield. The shield protects its bearer from one strength-removing effect.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Quen Sign",
     "rarity": "Rare",
     "rows": {
@@ -1856,7 +2115,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/96/50102icon.png",
     "info": "Spawn a base copy of all Breedable units on your side of the battlefield.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Monster Nest",
     "rarity": "Rare",
     "rows": {
@@ -1870,7 +2131,9 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/97/50104icon.png",
     "info": "Redraw up to 3 cards.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Francesca",
     "rarity": "Epic",
     "rows": {
@@ -1884,7 +2147,9 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/98/50105icon.png",
     "info": "Spawn 1 Commando Neophyte on a random row whenever you play a Special Card.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Isengrim",
     "rarity": "Legendary",
     "rows": {
@@ -1900,7 +2165,9 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/99/50106icon.png",
     "info": "Remove 6 strength from an opposing unit.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Iorveth",
     "rarity": "Legendary",
     "rows": {
@@ -1916,7 +2183,9 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/42/50107icon.png",
     "info": "Return the strongest non-Gold, non-Relentless unit (except self) on each side to the owners' hands. Ties are resolved randomly.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Milva",
     "rarity": "Epic",
     "rows": {
@@ -1930,7 +2199,10 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/100/50109icon.png",
     "info": "Ambush: When the next non-Gold Special Card is played, cancel its effects.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal",
+      "Disloyal"
+    ],
     "name": "Ida Emean",
     "rarity": "Epic",
     "rows": {
@@ -1946,7 +2218,10 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/101/50110icon.png",
     "info": "Ambush: When the opposing player passes, add 2 strength to all other non-Gold units on the row.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal",
+      "Disloyal"
+    ],
     "name": "Toruviel",
     "rarity": "Epic",
     "rows": {
@@ -1962,7 +2237,10 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/102/50111icon.png",
     "info": "Ambush: When the round ends, return to the hand of the current owner if that player lost.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal",
+      "Disloyal"
+    ],
     "name": "Ciaran",
     "rarity": "Epic",
     "rows": {
@@ -1978,7 +2256,9 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/57/50112icon.png",
     "info": "Add 1 strength to all your other Dwarf units, wherever they are.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Barclay Els",
     "rarity": "Epic",
     "rows": {
@@ -1992,7 +2272,9 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/103/50113icon.png",
     "info": "Remove an amount equal to this unit's strength from an opposing non-Gold unit.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Braenn",
     "rarity": "Epic",
     "rows": {
@@ -2008,7 +2290,9 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/140/50114icon.png",
     "info": "Remove 1 strength from a random opposing non-Gold unit whenever a revealed Elf unit appears on your side.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Malena",
     "rarity": "Epic",
     "rows": {
@@ -2024,7 +2308,9 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/104/50115icon.png",
     "info": "Play immediately from your deck whenever there are 5 or more revealed Elf units on your side.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Aelirenn",
     "rarity": "Epic",
     "rows": {
@@ -2038,7 +2324,9 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/105/50116icon.png",
     "info": "Keep on the battlefield at the end of this round.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Yarpen Zigrin",
     "rarity": "Epic",
     "rows": {
@@ -2052,7 +2340,9 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/106/50117icon.png",
     "info": "Gain 3 strength whenever a Commando Neophyte appears on your side.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Ele'yas",
     "rarity": "Legendary",
     "rows": {
@@ -2068,7 +2358,9 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/107/50118icon.png",
     "info": "No ability.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Vrihedd Brigade",
     "rarity": "Common",
     "rows": {
@@ -2084,7 +2376,9 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/51/50119icon.png",
     "info": "Remove 3 strength from an opposing non-Gold unit. If it is not destroyed, gain 2 strength.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Dwarven Skirmisher",
     "rarity": "Common",
     "rows": {
@@ -2098,7 +2392,9 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/58/50120icon.png",
     "info": "Keep on the battlefield at the end of each round.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Mahakam Defender",
     "rarity": "Rare",
     "rows": {
@@ -2112,7 +2408,10 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/108/50121icon.png",
     "info": "Remove 2 strength from all non-Gold units on the row whenever a Special Card is played.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal",
+      "Disloyal"
+    ],
     "name": "Vrihedd Sappers",
     "rarity": "Common",
     "rows": {
@@ -2128,7 +2427,9 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/109/50122icon.png",
     "info": "Remove 5 strength from an opposing non-Gold unit.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Dol Blathanna Archer",
     "rarity": "Rare",
     "rows": {
@@ -2144,7 +2445,9 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/110/50123icon.png",
     "info": "Gain 3 strength whenever you play a Special Card.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Hawker Support",
     "rarity": "Rare",
     "rows": {
@@ -2160,7 +2463,9 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/59/50124icon.png",
     "info": "Gain 4 strength whenever an Ambush is played.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Elven Wardancer",
     "rarity": "Common",
     "rows": {
@@ -2176,7 +2481,9 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/121/50125icon.png",
     "info": "Ambush: When a revealed non-Gold unit appears on the opposite side, remove 5 strength from it.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Fireball Trap",
     "rarity": "Rare",
     "rows": {
@@ -2192,7 +2499,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/111/50126icon.png",
     "info": "Discard 2 cards and add 2 base strength to them. Choose any card in your deck and place it in your hand.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "King Bran",
     "rarity": "Epic",
     "rows": {
@@ -2206,7 +2515,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/60/50127icon.png",
     "info": "Draw 3 cards. Keep 1 and discard the rest.",
-    "loyalty": "Disloyal",
+    "loyalty": [
+      "Disloyal"
+    ],
     "name": "Birna Bran",
     "rarity": "Epic",
     "rows": {
@@ -2220,7 +2531,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/61/50128icon.png",
     "info": "Gain 2 strength at the start of your turn if it's the sole unit on its row.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Champion of Champions",
     "rarity": "Epic",
     "rows": {
@@ -2236,7 +2549,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/43/50130icon.png",
     "info": "Remove 2 strength from 3 non-Gold units on your side of the battlefield. Gain 3 strength for each.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Gremist",
     "rarity": "Epic",
     "rows": {
@@ -2250,7 +2565,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/112/50131icon.png",
     "info": "Immune to Fog. Remove 2 strength from 3 non-Gold units.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Holger Blackhand",
     "rarity": "Epic",
     "rows": {
@@ -2264,7 +2581,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/113/50132icon.png",
     "info": "No ability.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Jutta an Dimun",
     "rarity": "Epic",
     "rows": {
@@ -2278,7 +2597,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/114/50133icon.png",
     "info": "Remove 3 strength from this unit, then from the strongest opposing non-Gold unit(s). When removed from the battlefield, spawn Craven Revived on the same row.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Skjall",
     "rarity": "Epic",
     "rows": {
@@ -2294,7 +2615,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/115/50134icon.png",
     "info": "If possible, discard 1 card and draw 1 card.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Svanrige",
     "rarity": "Rare",
     "rows": {
@@ -2308,7 +2631,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/50/50135icon.png",
     "info": "Transform into a Raging Bear if weakened but not destroyed.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Raging Berserker",
     "rarity": "Rare",
     "rows": {
@@ -2322,7 +2647,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/44/50136icon.png",
     "info": "When moved to the graveyard, transform into a Bear.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Berserker marauder",
     "rarity": "Common",
     "rows": {
@@ -2336,7 +2663,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/116/50137icon.png",
     "info": "Remove 3 strength from a non-Gold unit.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Clan Brokvar Hunter",
     "rarity": "Rare",
     "rows": {
@@ -2350,7 +2679,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/62/50138icon.png",
     "info": "Add 2 strength to all other non-Gold units on the row.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Clan Heymaey Skald",
     "rarity": "Rare",
     "rows": {
@@ -2366,7 +2697,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/63/50139icon.png",
     "info": "Immune to Rain.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Light Longship",
     "rarity": "Common",
     "rows": {
@@ -2380,7 +2713,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/117/50140icon.png",
     "info": "Gain 2 strength whenever another unit on your side is weakened.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Clan Tuirseach Axeman",
     "rarity": "Common",
     "rows": {
@@ -2394,7 +2729,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/64/50141icon.png",
     "info": "When resurrected, gain 4 base strength.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Clan Tuirseach Skirmishers",
     "rarity": "Rare",
     "rows": {
@@ -2408,7 +2745,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/118/50142icon.png",
     "info": "Remove 2 strength from a random opposing non-Gold unit whenever a unit on your side is destroyed or you discard a unit.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "War Longship",
     "rarity": "Rare",
     "rows": {
@@ -2422,7 +2761,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/119/50143icon.png",
     "info": "Immune to Rain. Remove 1 strength from 3 non-Gold units.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Clan Brokvar Archer",
     "rarity": "Common",
     "rows": {
@@ -2436,7 +2777,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/65/50150icon.png",
     "info": "Add 2 to the base strength of a non-Gold unit in your graveyard (can be Permadeath), then resurrect it.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Restore",
     "rarity": "Epic",
     "rows": {
@@ -2450,7 +2793,10 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/120/50151icon.png",
     "info": "Remove 3 strength from all non-Gold units on a row.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal",
+      "Disloyal"
+    ],
     "name": "Lacerate",
     "rarity": "Common",
     "rows": {
@@ -2467,7 +2813,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/126/50195icon.png",
     "info": "Play the weakest non-Gold unit from your deck. Ties are resolved randomly.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "King of Beggars",
     "rarity": "Legendary",
     "rows": {
@@ -2481,7 +2829,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/139/50197icon.png",
     "info": "When destroyed, add 3 strength to all opposing non-Gold units.",
-    "loyalty": "Disloyal",
+    "loyalty": [
+      "Disloyal"
+    ],
     "name": "Iris",
     "rarity": "Epic",
     "rows": {
@@ -2495,7 +2845,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/128/50198icon.png",
     "info": "Play the strongest non-Gold unit from your deck. Ties are resolved randomly.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Alzur's Double\u2013Cross",
     "rarity": "Epic",
     "rows": {
@@ -2509,7 +2861,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/131/50199icon.png",
     "info": "Reset any unit on the battlefield to its base strength. If Gold, convert it to Silver (or Bronze, if that was its original color).",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Dimeritium Shackles",
     "rarity": "Rare",
     "rows": {
@@ -2523,7 +2877,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/138/50202icon.png",
     "info": "At the start of your turn, remove 1 strength from the strongest non-Gold unit(s) (except self) on the battlefield.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Yennefer: The Conjurer",
     "rarity": "Epic",
     "rows": {
@@ -2537,7 +2893,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/132/50203icon.png",
     "info": "Spawn either a Mutagen or a Spores effect.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Mardroeme",
     "rarity": "Common",
     "rows": {
@@ -2551,7 +2909,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/18/5031icon.png",
     "info": "After 2 turns, gain 1 strength for each unit in your graveyard.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Madman Lugos",
     "rarity": "Legendary",
     "rows": {
@@ -2565,7 +2925,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/970/5032icon.png",
     "info": "Draw 1 card and discard 1 random non-Gold card from your deck.",
-    "loyalty": "Disloyal",
+    "loyalty": [
+      "Disloyal"
+    ],
     "name": "Donar an Hindar",
     "rarity": "Epic",
     "rows": {
@@ -2579,7 +2941,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/19/5033icon.png",
     "info": "Move a random card from your opponent's graveyard to your hand.",
-    "loyalty": "Disloyal",
+    "loyalty": [
+      "Disloyal"
+    ],
     "name": "Udalryk",
     "rarity": "Epic",
     "rows": {
@@ -2593,7 +2957,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/971/5036icon.png",
     "info": "Remove 1 strength from each non-Gold unit played on the battlefield. Does not affect spawned units.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Savage Bear",
     "rarity": "Rare",
     "rows": {
@@ -2607,7 +2973,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/20/5037icon.png",
     "info": "Add 2 base strength to all non-Gold units in your graveyard.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Draig Bon\u2013Dhu",
     "rarity": "Epic",
     "rows": {
@@ -2621,7 +2989,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/972/5038icon.png",
     "info": "Resurrect a non-Gold unit (can be Permadeath). Gain 1 strength whenever a unit is played from the graveyard.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Sigrdrifa",
     "rarity": "Epic",
     "rows": {
@@ -2635,7 +3005,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/973/5041icon.png",
     "info": "Spawn a Spectral Whale on a random row on the opposite side.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Blueboy Lugos",
     "rarity": "Epic",
     "rows": {
@@ -2649,7 +3021,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/974/5043icon.png",
     "info": "When moved to the graveyard, lose 2 base strength and resurrect.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Morkvarg",
     "rarity": "Legendary",
     "rows": {
@@ -2663,7 +3037,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/919/505icon.png",
     "info": "Return to your hand if you lose the round.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Ciri",
     "rarity": "Epic",
     "rows": {
@@ -2677,7 +3053,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/920/506icon.png",
     "info": "Remove 4 strength from an opposing unit.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Triss Merigold",
     "rarity": "Legendary",
     "rows": {
@@ -2691,7 +3069,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/984/508icon.png",
     "info": "Spawn one of the two Field Marshal Duda units.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Zoltan: Animal Tamer",
     "rarity": "Legendary",
     "rows": {
@@ -2705,7 +3085,9 @@
     "faction": "Scoia'tael",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/921/509icon.png",
     "info": "Keep on the battlefield at the end of each round.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Zoltan Chivay",
     "rarity": "Epic",
     "rows": {
@@ -2719,7 +3101,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/28/5104icon.png",
     "info": "Resurrect when discarded.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Clan an Craite Raider",
     "rarity": "Common",
     "rows": {
@@ -2733,7 +3117,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/975/5105icon.png",
     "info": "Lose 2 strength.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Clan an Craite Warrior",
     "rarity": "Common",
     "rows": {
@@ -2747,7 +3133,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/976/5107icon.png",
     "info": "Add 2 base strength to a non-Gold unit on your side of the battlefield.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Clan Tordarroch Shieldsmith",
     "rarity": "Common",
     "rows": {
@@ -2761,7 +3149,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/977/5114icon.png",
     "info": "Resurrect all Queensguards and add 1 base strength to your Cerys unit, wherever it is.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Queensguard",
     "rarity": "Common",
     "rows": {
@@ -2775,7 +3165,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/21/5115icon.png",
     "info": "Immune to Fog. Discard all Clan Dimun Pirates from your deck.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Clan Dimun Pirate",
     "rarity": "Common",
     "rows": {
@@ -2789,7 +3181,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/980/5116icon.png",
     "info": "Immune to Fog. Gain 2 strength whenever you discard a unit.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Clan Dimun Pirate Captain",
     "rarity": "Rare",
     "rows": {
@@ -2803,7 +3197,9 @@
     "faction": "Skellige",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/981/5117icon.png",
     "info": "Resurrect a Bronze non-Permadeath unit.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Priestess of Freya",
     "rarity": "Common",
     "rows": {
@@ -2817,7 +3213,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/922/515icon.png",
     "info": "Draw 2 cards. Your opponent draws 1 card.",
-    "loyalty": "Disloyal",
+    "loyalty": [
+      "Disloyal"
+    ],
     "name": "Avallac'h",
     "rarity": "Legendary",
     "rows": {
@@ -2831,7 +3229,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/923/517icon.png",
     "info": "No ability.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Geralt",
     "rarity": "Epic",
     "rows": {
@@ -2845,7 +3245,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/924/550icon.png",
     "info": "Add 2 strength to each non-Gold unit played on your side and 1 strength to each played on the opposing side. Does not affect spawned units.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Dandelion",
     "rarity": "Epic",
     "rows": {
@@ -2859,7 +3261,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/5/551icon.png",
     "info": "Draw 2 non-Gold cards. Play 1 and return the other to your deck.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Priscilla",
     "rarity": "Epic",
     "rows": {
@@ -2873,7 +3277,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/24/552icon.png",
     "info": "When removed from the battlefield, transform into Regis: Higher Vampire and play.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Regis",
     "rarity": "Legendary",
     "rows": {
@@ -2887,7 +3293,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/0/553icon.png",
     "info": "After 3 turns, destroy the strongest non-Gold unit(s) twice in a row.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Villentretenmerth",
     "rarity": "Legendary",
     "rows": {
@@ -2901,7 +3309,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/6/555icon.png",
     "info": "Spawn 3 Shadows.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Gaunter O'Dimm",
     "rarity": "Epic",
     "rows": {
@@ -2915,7 +3325,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/985/559icon.png",
     "info": "When removed from the battlefield, spawn a Chort on the row where this unit was.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Prize-Winning Cow",
     "rarity": "Epic",
     "rows": {
@@ -2929,7 +3341,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/986/562icon.png",
     "info": "Play Eskel and Lambert from your deck.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Vesemir",
     "rarity": "Epic",
     "rows": {
@@ -2943,7 +3357,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/987/564icon.png",
     "info": "Play Eskel and Vesemir from your deck.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Lambert",
     "rarity": "Epic",
     "rows": {
@@ -2957,7 +3373,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/925/566icon.png",
     "info": "Play on a random row from your deck or graveyard whenever a Gold card appears on your side.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Roach",
     "rarity": "Legendary",
     "rows": {
@@ -2973,7 +3391,9 @@
     "faction": "Northern Realms",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/7/567icon.png",
     "info": "Spawn a Botchling or a Lubberkin.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Bloody Baron",
     "rarity": "Legendary",
     "rows": {
@@ -2987,7 +3407,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/988/568icon.png",
     "info": "Choose a non-Gold unit in your hand (other than an Operator). Create an exact copy in both players' hands. Banish when destroyed.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Operator",
     "rarity": "Legendary",
     "rows": {
@@ -3001,7 +3423,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/989/573icon.png",
     "info": "When removed from the battlefield, spawn 2 Lesser Golems on the row where this unit was.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Golem",
     "rarity": "Common",
     "rows": {
@@ -3015,7 +3439,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/1/574icon.png",
     "info": "After 4 turns, remove 1 strength from all opposing non-Gold units and return this unit to your hand.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Ocvist",
     "rarity": "Legendary",
     "rows": {
@@ -3029,7 +3455,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/926/575icon.png",
     "info": "Choose a non-Gold unit three times. Remove 3 strength the first time, 2 the second and 1 the third.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Myrgtabrakke",
     "rarity": "Legendary",
     "rows": {
@@ -3043,7 +3471,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/927/576icon.png",
     "info": "Resurrect a non-Gold unit (can be Permadeath) from your opponent's graveyard.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Caretaker",
     "rarity": "Legendary",
     "rows": {
@@ -3057,7 +3487,9 @@
     "faction": "Monsters",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/4/31/582icon.png",
     "info": "Spawn a Lesser Fire Elemental on this unit's row at the start of your turn.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Fire Elemental",
     "rarity": "Epic",
     "rows": {
@@ -3071,7 +3503,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/928/584icon.png",
     "info": "Immune to Weather. Gain 3 strength each time a Weather effect appears.",
-    "loyalty": "Loyal",
+    "loyalty": [
+      "Loyal"
+    ],
     "name": "Sarah",
     "rarity": "Epic",
     "rows": {
@@ -3085,7 +3519,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/915/6icon.png",
     "info": "Spawn either a Clear Skies or a Rally effect.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "First Light",
     "rarity": "Common",
     "rows": {
@@ -3099,7 +3535,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/916/8icon.png",
     "info": "Spawn Fog and Rain effects.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "Skellige Storm",
     "rarity": "Epic",
     "rows": {
@@ -3113,7 +3551,9 @@
     "faction": "Neutral",
     "image": "http://media-SeaWolf.cursecdn.com/avatars/3/917/9icon.png",
     "info": "Spawn Frost and Fog effects.",
-    "loyalty": null,
+    "loyalty": [
+      null
+    ],
     "name": "White Frost",
     "rarity": "Epic",
     "rows": {
