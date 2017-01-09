@@ -39,7 +39,7 @@ def cardInfoFromGwentDb():
                 'faction': "",
                 'rows': {},
                 'rarity': "",
-                'loyalty': "",
+                'loyalty': [],
                 'strength': "",
                 'image': "",
                 'cardid': "",
@@ -73,7 +73,8 @@ def cardInfoFromGwentDb():
                     cardData['faction'] = details.contents[0]
 
                  if 'col-loyalty' in details.get('class'):
-                    cardData['loyalty'] = details.span.get('title')
+                    for loyaltySpan in details.find_all('span'):
+                        cardData['loyalty'].append(loyaltySpan.get('title'))
 
                  if 'col-abilities' in details.get('class'):
                     cardData['info'] = removeHtml(details.span.get('title'))
