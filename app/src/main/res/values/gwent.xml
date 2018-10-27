@@ -16,4 +16,7 @@
     <string name="rare">Rare</string>
     <string name="epic">Epic</string>
     <string name="legendary">Legendary</string>
+    <string name="set">Set</string>
+    <string name="base">Base set</string>
+    <string name="thronebreaker">Thronebreaker</string>
 </resources>

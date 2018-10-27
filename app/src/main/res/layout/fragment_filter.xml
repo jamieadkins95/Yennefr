@@ -180,6 +180,45 @@
         </com.google.android.material.chip.ChipGroup>
 
         <TextView
+            android:id="@+id/subheader_set"
+            android:text="@string/set"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginStart="8dp"
+            android:textColor="@color/text_secondary"
+            app:layout_constraintTop_toBottomOf="@id/group_rarity"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"/>
+
+        <!-- Set -->
+        <com.google.android.material.chip.ChipGroup
+            android:id="@+id/group_set"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            app:layout_constraintTop_toBottomOf="@id/subheader_set"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent">
+
+            <com.google.android.material.chip.Chip
+                android:id="@+id/filter_set_base"
+                style="@style/Widget.MaterialComponents.Chip.Filter.Dark"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/base" />
+
+            <com.google.android.material.chip.Chip
+                android:id="@+id/filter_set_thronebreaker"
+                style="@style/Widget.MaterialComponents.Chip.Filter.Dark"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/thronebreaker" />
+
+        </com.google.android.material.chip.ChipGroup>
+
+        <TextView
             android:id="@+id/subheader_provisions"
             android:text="@string/provisions"
             android:layout_width="0dp"
@@ -188,7 +227,7 @@
             android:layout_marginLeft="8dp"
             android:layout_marginStart="8dp"
             android:textColor="@color/text_secondary"
-            app:layout_constraintTop_toBottomOf="@id/group_rarity"
+            app:layout_constraintTop_toBottomOf="@id/group_set"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent"/>
 
