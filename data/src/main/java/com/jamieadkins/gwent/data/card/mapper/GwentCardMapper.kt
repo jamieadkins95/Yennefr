@@ -48,7 +48,7 @@ class GwentCardMapper @Inject constructor(
                 cardEntity.craft,
                 cardEntity.mill,
                 cardEntity.related,
-//                cardSetIdToCardSet(cardEntity.cardSet),
+                cardSetIdToCardSet(cardEntity.availability),
                 artMapper.map(from.art.first()))
     }
 

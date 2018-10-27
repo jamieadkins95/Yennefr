@@ -28,8 +28,8 @@ class ApiMapper @Inject constructor() : Mapper<FirebaseCardResult, Collection<Ca
                         it.categories ?: listOf(),
                         it.keywords ?: listOf(),
                         it.loyalties ?: listOf(),
-                        it.related ?: listOf()
-//                        it.cardSet ?: ""
+                        it.related ?: listOf(),
+                        variation?.availability ?: ""
                 )
             } else {
                 null
