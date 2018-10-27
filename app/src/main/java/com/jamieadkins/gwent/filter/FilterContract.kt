@@ -33,6 +33,10 @@ interface FilterContract {
 
         fun setLegendaryFilter(checked: Boolean)
 
+        fun setBaseSetFilter(checked: Boolean)
+
+        fun setThronebreakerFilter(checked: Boolean)
+
         fun setMinProvisions(provisions: Int)
 
         fun setMaxProvisions(provisions: Int)
@@ -69,6 +73,10 @@ interface FilterContract {
         fun onEpicChanged(checked: Boolean)
 
         fun onLegendaryChanged(checked: Boolean)
+
+        fun onBaseSetChanged(checked: Boolean)
+
+        fun onThronebreakerChanged(checked: Boolean)
 
         fun onMinProvisionsChanged(min: Int)
 

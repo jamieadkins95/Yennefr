@@ -6,6 +6,7 @@ import com.jamieadkins.gwent.domain.GwentFaction
 import com.jamieadkins.gwent.domain.card.model.GwentCardColour
 import com.jamieadkins.gwent.domain.card.model.GwentCardLoyalty
 import com.jamieadkins.gwent.domain.card.model.GwentCardRarity
+import com.jamieadkins.gwent.domain.card.model.GwentCardSet
 
 object GwentStringHelper {
 
@@ -15,6 +16,14 @@ object GwentStringHelper {
             GwentCardRarity.RARE -> context.getString(R.string.rare)
             GwentCardRarity.EPIC -> context.getString(R.string.epic)
             GwentCardRarity.LEGENDARY -> context.getString(R.string.legendary)
+            else -> null
+        }
+    }
+
+    fun getCardSetString(context: Context, set: GwentCardSet?): String? {
+        return when(set) {
+            GwentCardSet.BASE -> context.getString(R.string.base)
+            GwentCardSet.THRONEBREAKER -> context.getString(R.string.thronebreaker)
             else -> null
         }
     }

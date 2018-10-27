@@ -17,6 +17,7 @@ public class CardDetails {
     private List<String> positions;
     private List<String> related;
     private boolean released;
+    private String cardSet;
     private int strength;
     private int provision;
     private int mulligans;
@@ -79,6 +80,10 @@ public class CardDetails {
 
     public List<String> getRelated() {
         return related;
+    }
+
+    public String getCardSet() {
+        return cardSet;
     }
 
     @Override

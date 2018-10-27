@@ -4,6 +4,7 @@ import com.jamieadkins.gwent.base.BaseDisposableSingle
 import com.jamieadkins.gwent.domain.GwentFaction
 import com.jamieadkins.gwent.domain.card.model.GwentCardColour
 import com.jamieadkins.gwent.domain.card.model.GwentCardRarity
+import com.jamieadkins.gwent.domain.card.model.GwentCardSet
 import com.jamieadkins.gwent.domain.filter.GetFilterUseCase
 import com.jamieadkins.gwent.domain.filter.SetFilterUseCase
 import com.jamieadkins.gwent.domain.filter.model.CardFilter
@@ -31,6 +32,9 @@ class FilterPresenter @Inject constructor(
     var rare = false
     var epic = false
     var legendary = false
+
+    var baseSet = false
+    var thronebreaker = false
 
     var minProvisions = 0
     var maxProvisions = 100
@@ -79,6 +83,12 @@ class FilterPresenter @Inject constructor(
                     legendary = filter.rarityFilter[GwentCardRarity.LEGENDARY] ?: false
                     view.setLegendaryFilter(legendary)
 
+                    baseSet = filter.cardSetFilter[GwentCardSet.BASE] ?: false
+                    view.setBaseSetFilter(baseSet)
+
+                    thronebreaker = filter.cardSetFilter[GwentCardSet.THRONEBREAKER] ?: false
+                    view.setBaseSetFilter(thronebreaker)
+
                     minProvisions = filter.minProvisions
                     view.setMinProvisions(minProvisions)
 
@@ -116,7 +126,13 @@ class FilterPresenter @Inject constructor(
             GwentCardRarity.EPIC to epic,
             GwentCardRarity.LEGENDARY to legendary
         )
-        setFilterUseCase.setFilter(CardFilter(rarities, colours, factions, minProvisions, maxProvisions))
+
+        val sets = mapOf(
+                GwentCardSet.BASE to baseSet,
+                GwentCardSet.THRONEBREAKER to thronebreaker
+        )
+
+        setFilterUseCase.setFilter(CardFilter(rarities, colours, factions, sets, minProvisions, maxProvisions))
         view.close()
     }
 
@@ -145,6 +161,10 @@ class FilterPresenter @Inject constructor(
     override fun onEpicChanged(checked: Boolean) { epic = checked }
 
     override fun onLegendaryChanged(checked: Boolean) { legendary = checked }
+
+    override fun onBaseSetChanged(checked: Boolean) { baseSet = checked }
+
+    override fun onThronebreakerChanged(checked: Boolean) { thronebreaker = checked }
 
     override fun onMinProvisionsChanged(min: Int) { minProvisions = min }
 

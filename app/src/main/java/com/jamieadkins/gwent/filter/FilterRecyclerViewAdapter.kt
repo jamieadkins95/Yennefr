@@ -42,6 +42,7 @@ class FilterRecyclerViewAdapter : RecyclerView.Adapter<FilterRecyclerViewAdapter
                 is FactionFilter -> RxBus.post(FilterChangeEvent(FactionFilter(filter.faction, newState)))
                 is ColourFilter -> RxBus.post(FilterChangeEvent(ColourFilter(filter.colour, newState)))
                 is RarityFilter -> RxBus.post(FilterChangeEvent(RarityFilter(filter.rarity, newState)))
+                is CardSetFilter -> RxBus.post(FilterChangeEvent(CardSetFilter(filter.set, newState)))
             }
         }
 
@@ -49,6 +50,7 @@ class FilterRecyclerViewAdapter : RecyclerView.Adapter<FilterRecyclerViewAdapter
             is FactionFilter -> holder.tvName.text = GwentStringHelper.getFactionString(holder.itemView.context, filter.faction)
             is ColourFilter -> holder.tvName.text = GwentStringHelper.getColourString(holder.itemView.context, filter.colour)
             is RarityFilter -> holder.tvName.text = GwentStringHelper.getRarityString(holder.itemView.context, filter.rarity)
+            is CardSetFilter -> holder.tvName.text = GwentStringHelper.getCardSetString(holder.itemView.context, filter.set)
         }
     }
 

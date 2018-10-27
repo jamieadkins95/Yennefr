@@ -19,6 +19,7 @@ data class GwentCard(
         val craftCost: Int = 0,
         val millValue: Int = 0,
         val relatedCards: List<String> = emptyList(),
+//        val cardSet: GwentCardSet,
         val cardArt: GwentCardArt) {
 
     override fun toString(): String {

@@ -47,6 +47,9 @@ class FilterBottomSheetDialogFragment : DaggerSupportDialogFragment(), FilterCon
         filter_rarity_epic.setOnCheckedChangeListener { _, checked -> presenter.onEpicChanged(checked) }
         filter_rarity_legendary.setOnCheckedChangeListener { _, checked -> presenter.onLegendaryChanged(checked) }
 
+        filter_set_base.setOnCheckedChangeListener { _, checked -> presenter.onBaseSetChanged(checked) }
+        filter_set_thronebreaker.setOnCheckedChangeListener { _, checked -> presenter.onThronebreakerChanged(checked) }
+
         inputMin.addTextChangedListener(object: TextWatcher {
             override fun afterTextChanged(p0: Editable?) { /* Do nothing. */ }
 
@@ -98,6 +101,10 @@ class FilterBottomSheetDialogFragment : DaggerSupportDialogFragment(), FilterCon
     override fun setEpicFilter(checked: Boolean) { filter_rarity_epic.isChecked = checked }
 
     override fun setLegendaryFilter(checked: Boolean) { filter_rarity_legendary.isChecked = checked }
+
+    override fun setBaseSetFilter(checked: Boolean) { filter_set_base.isChecked = checked }
+
+    override fun setThronebreakerFilter(checked: Boolean) { filter_set_thronebreaker.isChecked = checked }
 
     override fun setMinProvisions(provisions: Int) { inputMin.setText(provisions.toString()) }
 
