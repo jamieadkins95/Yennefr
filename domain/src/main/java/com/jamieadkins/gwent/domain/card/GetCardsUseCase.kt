@@ -49,8 +49,8 @@ class GetCardsUseCase @Inject constructor(
         val rarity = filter.rarityFilter[card.rarity] ?: false
         val colour = filter.colourFilter[card.colour] ?: false
         val provisions = card.provisions >= filter.minProvisions && card.provisions <= filter.maxProvisions
-//        val cardSet = filter.cardSetFilter[card.cardSet] ?: false
-        return (faction && rarity && colour && include && provisions)
+        val cardSet = filter.cardSetFilter[card.cardSet] ?: false
+        return (faction && rarity && colour && include && provisions && cardSet)
     }
 
 }
