@@ -87,7 +87,7 @@ class FilterPresenter @Inject constructor(
                     view.setBaseSetFilter(baseSet)
 
                     thronebreaker = filter.cardSetFilter[GwentCardSet.THRONEBREAKER] ?: false
-                    view.setBaseSetFilter(thronebreaker)
+                    view.setThronebreakerFilter(thronebreaker)
 
                     minProvisions = filter.minProvisions
                     view.setMinProvisions(minProvisions)
