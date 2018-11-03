@@ -12,24 +12,24 @@ class ApiMapper @Inject constructor() : Mapper<FirebaseCardResult, Collection<Ca
             if (it.isReleased) {
                 val variation = it.variations.values.firstOrNull()
                 CardEntity(
-                        it.ingameId,
-                        it.strength ?: 0,
-                        variation?.isCollectible ?: false,
-                        it.rarity ?: "",
-                        it.type ?: "",
-                        it.faction ?: "",
-                        it.provision ?: 0,
-                        it.mulligans ?: 0,
-                        it.name ?: mapOf(),
-                        it.info ?: mapOf(),
-                        it.flavor ?: mapOf(),
-                        variation?.craft?.get("standard") ?: 0,
-                        variation?.mill?.get("standard") ?: 0,
-                        it.categories ?: listOf(),
-                        it.keywords ?: listOf(),
-                        it.loyalties ?: listOf(),
-                        it.related ?: listOf(),
-                        variation?.availability ?: ""
+                    it.ingameId,
+                    it.strength ?: 0,
+                    variation?.isCollectible ?: false,
+                    it.rarity ?: "",
+                    it.type ?: "",
+                    it.faction ?: "",
+                    it.provision ?: 0,
+                    it.mulligans ?: 0,
+                    it.name ?: mapOf(),
+                    it.info ?: mapOf(),
+                    it.flavor ?: mapOf(),
+                    variation?.craft?.get("standard") ?: 0,
+                    variation?.mill?.get("standard") ?: 0,
+                    it.categories ?: listOf(),
+                    it.keywords ?: listOf(),
+                    it.loyalties ?: listOf(),
+                    it.related ?: listOf(),
+                    variation?.availability ?: ""
                 )
             } else {
                 null

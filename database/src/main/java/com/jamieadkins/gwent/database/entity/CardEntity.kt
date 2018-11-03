@@ -24,7 +24,7 @@ data class CardEntity(
         val keywordIds: List<String>,
         val loyalties: List<String>,
         val related: List<String>,
-        val availability: String
+        val set: String
 ) {
 
     @Ignore var art: List<ArtEntity>? = null
